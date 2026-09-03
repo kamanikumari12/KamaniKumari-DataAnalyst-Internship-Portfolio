@@ -1,12 +1,22 @@
 # KamaniKumari-DataAnalyst-Internship-Portfolio
 Complete Data Analytics Internship Portfolio
 ## 👩‍💻 About Me
-Hi! I'm **Kamani Kumari**, a Computer Science Engineering student at **Bangalore Technological Institute**, interested in Data Analytics, Python, SQL, Excel and problem solving.
+Hi! I'm **Kamani Kumari**,a Final-Year Computer Science Engineering student from **Bangalore Technological Institute**, interested in Data Analytics, Python, SQL, Excel and problem solving.
 
 This repository consolidates my ApexPlanet Data Analyst Internship work into one professional master portfolio.
 
-## 🎯 Internship Projects
+## 🎯 Internship Overview
 
+Duration: ApexPlanet Data Analytics Internship
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Excel
+- GitHub
+
+## Tasks Completed
 ### Task 1 — Data Cleaning & EDA
 [View GitHub Repository](https://github.com/kamanikumari12/apexplanet-sales-data-analysis)
 
@@ -80,8 +90,8 @@ After enabling GitHub Pages, the website will be available from the repository's
 
 ## 📬 Connect
 - GitHub: https://github.com/kamanikumari12
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: www.linkedin.com/in/kamanikumari
+- Email: kamanikumari7488@gmail.com
 
 ---
 **Program:** ApexPlanet Data Analyst Internship  
