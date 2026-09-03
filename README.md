@@ -179,15 +179,7 @@ KamaniKumari-DataAnalyst-Internship-Portfolio/
 
 <div align="center">
 
-### Thank You for Visiting!
-
-If you like this portfolio, don't forget to ⭐ the repository.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
-
-</div>
-
-## 📬 Connect
+  ## 📬 Connect
 - GitHub: https://github.com/kamanikumari12
 - LinkedIn: www.linkedin.com/in/kamanikumari
 - Email: kamanikumari7488@gmail.com
@@ -196,3 +188,11 @@ If you like this portfolio, don't forget to ⭐ the repository.
 **Program:** ApexPlanet Data Analyst Internship  
 **Student:** Kamani Kumari  
 **Portfolio:** Capstone Integration & Portfolio Finalization
+### Thank You for Visiting!
+
+If you like this portfolio, don't forget to ⭐ the repository.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+
+</div>
+
